@@ -4,3 +4,10 @@ deploy_versions/
 .rn_temp/
 node_modules/
 .DS_Store
+
+#debug
+debug.log
+
+#lock
+package-lock.json
+
